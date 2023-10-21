@@ -1,17 +1,19 @@
-[
-    {
-        "nombre": "Kamus",
-        "liga": "Oro",
-        "puntos": 85
-    },
-    {
-        "nombre": "Test",
-        "liga": "Platino",
-        "puntos": 75
-    },
-    {
-        "nombre": "ExProXin",
-        "liga": "Bronce",
-        "puntos": 60
-    }
-]
+{
+    "players": [
+        {
+            "nombre": "Kamus",
+            "liga": "Oro",
+            "puntos": 85
+        },
+        {
+            "nombre": "Test",
+            "liga": "Platino",
+            "puntos": 75
+        },
+        {
+            "nombre": "ExProXin",
+            "liga": "Bronce",
+            "puntos": 60
+        }
+    ]
+}
